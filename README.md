@@ -1,5 +1,6 @@
-# Particle Jekyll Theme
+# Jekyll Theme
 ![site](site.png)
+
 Minimalist template for Jekyll
 
 ## License
